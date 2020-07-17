@@ -1,0 +1,29 @@
+{
+  "name": "npm-workshop-ng",
+  "version": "1.0.0",
+  "description": "npm workshop package example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguasch/npm-workshop.git"
+  },
+  "keywords": [
+    "ij",
+    "npm",
+    "workshop",
+    "ij-frontend"
+  ],
+  "author": "norbert guasch <norbert.guasch@adevinta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguasch/npm-workshop/issues"
+  },
+  "homepage": "https://github.com/nguasch/npm-workshop#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {}
+}
